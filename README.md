@@ -14,3 +14,5 @@ Scenario 7 – How to monitor the Disk usage and alert if it is beyond the given
 Scenario 8 – How to move the deleted files/folders to the recycle bin?
 
 Scenario 9 – How to restore the deleted files/folders from the recycle bin?
+
+Scenario 10 – How to Log all the deleted actions?
