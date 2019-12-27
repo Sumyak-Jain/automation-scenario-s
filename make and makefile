@@ -1,0 +1,10 @@
+//Add: 
+#include "mymath.h"
+int add(int a, int b) {
+return a + b;
+}
+//Subtract:
+#include "mymath.h"
+int subtract(int a, int b) {
+return a - b;
+}
