@@ -5,3 +5,6 @@ Scenario 2 – How to Delete archive files that are older than two days automati
 
 Scenario 4 – How do I email the summary of the web server requests every day?
 
+Scenario 5 – How Should I continuously monitor and Restart the web server if it is not running?
+
+
