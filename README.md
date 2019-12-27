@@ -10,3 +10,6 @@ Scenario 5 – How Should I continuously monitor and Restart the web server if i
 Scenario 6 - How should I allow the users to execute other commands normally whereas the forbidden commands should throw an error?
 
 Scenario 7 – How to monitor the Disk usage and alert if it is beyond the given threshold?
+
+Scenario 8 – How to move the deleted files/folders to the recycle bin?
+
