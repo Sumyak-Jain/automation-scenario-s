@@ -7,3 +7,4 @@ read -e -p "Enter name of file (bye to quit) : " INPUT_STRING
 mv .local/share/Trash/files/$INPUT_STRING $LOCATION
 echo ""
 echo ""
+done
