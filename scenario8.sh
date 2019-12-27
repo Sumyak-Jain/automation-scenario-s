@@ -8,3 +8,4 @@ mv $LOCATION/$INPUT_STRING .local/share/Trash/files
 echo ""
 echo ""
 done
+.
