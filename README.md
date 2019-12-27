@@ -16,3 +16,6 @@ Scenario 8 – How to move the deleted files/folders to the recycle bin?
 Scenario 9 – How to restore the deleted files/folders from the recycle bin?
 
 Scenario 10 – How to Log all the deleted actions?
+
+Scenario 11 – How to Read and Display all the file inputs with line numbers?
+
